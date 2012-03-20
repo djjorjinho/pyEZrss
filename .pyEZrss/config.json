@@ -4,10 +4,10 @@
     "timeout": 5, 
     "subscriptions": [
         {
-            "show_name": "Alcatraz", 
+            "show_name": "Yes Men", 
             "quality": "HDTV", 
             "quality_exact": "true", 
-            "last_guid": "https://eztv.it/ep/34015/alcatraz-1x11-hdtv-x264-lol/"
+            "last_guid": 0
         }
     ]
 }
