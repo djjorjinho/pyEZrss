@@ -1,0 +1,13 @@
+{
+    "url": "https://ezrss.it/search/index.php?mode=rss", 
+    "target_dir": "/tmp", 
+    "timeout": 5, 
+    "subscriptions": [
+        {
+            "show_name": "Alcatraz", 
+            "quality": "HDTV", 
+            "quality_exact": "true", 
+            "last_guid": "https://eztv.it/ep/34015/alcatraz-1x11-hdtv-x264-lol/"
+        }
+    ]
+}
